@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181260257915",
+    "firebase_url": "https://knowyourfood-86a49.firebaseio.com",
+    "project_id": "knowyourfood-86a49",
+    "storage_bucket": "knowyourfood-86a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181260257915:android:b1e55a422bb7f60c",
+        "android_client_info": {
+          "package_name": "com.example.knowyourfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181260257915-igv9rvqdmh9dbpbaj4irrjiupshdbbl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.knowyourfood",
+            "certificate_hash": "0da8cb167f035527b630435bae6436eab0f7db76"
+          }
+        },
+        {
+          "client_id": "181260257915-nkkaaosrkbpvq5mhq7mtshsi33cm8upp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUeLC2xgMblRXADeYfPXxo0x1yJYrg3ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181260257915-nkkaaosrkbpvq5mhq7mtshsi33cm8upp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
